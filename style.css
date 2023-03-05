@@ -1,0 +1,48 @@
+body {
+    font-family: 'Open Serif', serif;
+    font-weight: 300;
+    background-color: lightsteelblue;
+    /* background-image: linear-gradient(to bottom right, #00F490,#00BBC9); */
+    /* background-image: linear-gradient(to bottom , #0ff5072d,#00bcc917); */
+    width: 100%;
+}
+
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.jumbotron {
+    background-color: rgba(255,255,255,0);
+}
+
+.announcement {
+    text-align:center;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.btn-outline-light {
+    border-color:black;
+}
+
+.btn-outline-dark:hover {
+    background-color: rgba(255, 255, 255, 0.601);
+}
+
+.raffleCard {
+    background-image: url(images/raffleTicket.jpg);
+    background-size: cover;
+    background-position: bottom;
+    text-align: center;
+    width: 60%;
+
+}
+
+.officercard {
+    text-align: center;
+}
+
+.officercard-img-top {
+    width: auto;
+    
+}
